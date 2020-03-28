@@ -1,0 +1,6 @@
+org.kde.kglobalaccel
+/component/kwin
+invokeShortcut
+'Window Minimize'
+Window Move
+Windows Minimize

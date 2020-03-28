@@ -1,0 +1,143 @@
+Walk Through Windows Alternative
+ExposeAll
+Window to Next Screen
+Switch to Desktop 19
+Window Maximize Vertical
+MoveMouseToFocus
+Switch to Next Desktop
+Switch to Desktop 18
+Window Grow Horizontal
+Walk Through Desktops (Reverse)
+Decrease Opacity
+Suspend Compositing
+Walk Through Desktops
+Window Maximize Horizontal
+Window One Desktop Up
+Switch to Screen 2
+Window Quick Tile Bottom Right
+Walk Through Windows of Current Application
+Window Quick Tile Top
+Switch to Desktop 15
+view_zoom_in
+Window to Desktop 16
+Switch Window Down
+Switch to Desktop 7
+Window to Previous Desktop
+Window Above Other Windows
+Window to Desktop 18
+Window to Desktop 13
+ExposeClass
+Window to Previous Screen
+Walk Through Windows Alternative (Reverse)
+Window to Desktop 8
+Switch to Next Screen
+Switch to Desktop 4
+MoveZoomUp
+Window Pack Left
+MoveZoomDown
+Window to Desktop 3
+Switch to Screen 3
+Window to Screen 5
+Window No Border
+Window Fullscreen
+Window to Desktop 2
+Window Quick Tile Top Right
+Activate Window Demanding Attention
+Switch to Screen 5
+Window to Desktop 15
+Window Grow Vertical
+Window Quick Tile Bottom
+Window to Desktop 14
+Walk Through Windows of Current Application (Reverse)
+Switch Window Left
+Switch to Previous Screen
+Invert Screen Colors
+Window to Desktop 17
+Switch to Screen 6
+Setup Window Shortcut
+Switch to Desktop 9
+Window to Desktop 6
+Window to Desktop 11
+Window to Screen 1
+Switch One Desktop Up
+Switch to Screen 0
+Window to Desktop 4
+Switch to Screen 4
+Window to Desktop 5
+Window to Screen 2
+Window Maximize
+MoveZoomLeft
+Window Pack Down
+Window One Desktop Down
+Walk Through Windows of Current Application Alternative (Reverse)
+Window Below Other Windows
+Switch One Desktop to the Left
+Window One Desktop to the Left
+Walk Through Desktop List
+Switch to Desktop 1
+Window to Screen 3
+Conmutar color nocturno
+MoveZoomRight
+Switch Window Right
+Switch to Desktop 17
+Window Pack Up
+Switch to Desktop 14
+Walk Through Desktop List (Reverse)
+MoveMouseToCenter
+Toggle Window Raise/Lower
+Window to Desktop 19
+Walk Through Windows of Current Application Alternative
+Walk Through Windows
+Switch to Desktop 12
+Window Shrink Horizontal
+Window to Screen 0
+Switch to Desktop 3
+Window to Desktop 12
+Walk Through Windows (Reverse)
+Window Shrink Vertical
+Switch to Desktop 11
+Switch to Desktop 13
+Window Resize
+Switch to Desktop 10
+Window to Screen 7
+Switch Window Up
+Window One Desktop to the Right
+Kill Window
+Switch to Desktop 2
+Window Close
+Window to Desktop 20
+Increase Opacity
+Window to Desktop 9
+Window Quick Tile Left
+Window Operations Menu
+Switch to Desktop 16
+Switch to Desktop 20
+Switch One Desktop to the Right
+Window Quick Tile Top Left
+ShowDesktopGrid
+Switch to Desktop 8
+Switch to Previous Desktop
+view_actual_size
+Window Move
+view_zoom_out
+Switch to Screen 7
+Switch to Desktop 6
+Switch to Desktop 5
+Show Desktop
+Window to Desktop 7
+Window to Desktop 10
+Window to Screen 4
+Window Pack Right
+Window Quick Tile Right
+Switch to Screen 1
+Window Quick Tile Bottom Left
+Window to Desktop 1
+Expose
+Switch One Desktop Down
+Window Minimize
+Window Raise
+Window to Next Desktop
+Window to Screen 6
+Window On All Desktops
+Window Lower
+Window Shade
